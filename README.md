@@ -1,2 +1,2 @@
 # Wallpapers 
-[hi][httpl://hi.com]
+[hi](wallpaper.png)
