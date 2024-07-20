@@ -1,2 +1,2 @@
 # Wallpapers 
-[hi](wallpaper.png)
+![arch_grubbox](Wallpapers/arch_gruvbox.png)
