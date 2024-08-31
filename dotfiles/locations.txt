@@ -1,0 +1,3 @@
+cava/confg : .config/cava/config
+mtab/config.txt : .config/mtab/config.txt
+
