@@ -2,6 +2,13 @@
 
 echo "The Installer Is Starting ..."
 
+echo"Setting Up Wallpapers"
+
+$(cd ..)
+$(cp -R Wallpapers/ /usr/share/backgrounds/gnome)
+
+echo"Successfully copied wallpapers"
+
 echo "Performing System Update"
 $(sudo pacman -Syu)
 
