@@ -5,7 +5,7 @@ echo "The Installer Is Starting ..."
 echo"Setting Up Wallpapers"
 
 $(cd ..)
-$(cp -R Wallpapers/ /usr/share/backgrounds/gnome)
+$(cp -R Wallpapers/ /home/sam/.local/share/backgrounds)
 
 echo"Successfully copied wallpapers"
 
