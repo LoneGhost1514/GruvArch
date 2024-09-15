@@ -9,6 +9,8 @@
 ![archfoc](Wallpapers/archfox_blue.png)
 ![xorg_meme](Wallpapers/xorg_meme.png)
 # Configs
+|Package|Location|
+|---|---|
 |mtab|[config.txt](dotfiles/mtab/config.txt)|
 |cava|[config](dotfiles/cava/config)
 # Packages
