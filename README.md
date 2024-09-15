@@ -15,23 +15,25 @@ To use this repo in your distrubution ,
    This script will copy the config files into their respective directories
 6. Finished
    
-   
-
-# Configs
-|Package|Location|
-|---|---|
-|mtab|[config.txt](dotfiles/mtab/config.txt)|
-|cava|[config](dotfiles/cava/config)
 # Installation Type
 
  |Installation Type|Packages|
  |---|:---:|
  |Full Install|gnome-tweaks brave-browser min firefox cava cmatrix code git npm nano vim make python qemu-full virt-manager anydesk zed zen|
  |Minimal Install|brave-broser firefox nano code|
- |Coding Workspace|code git nano vim make qemu-full virt-manager npm firefox|
+ |Coding Workspace|code git nano vim make qemu-full virt-manager npm firefox|   
+
+# Configs
+|Package|Location|
+|---|---|
+|mtab|[config.txt](dotfiles/mtab/config.txt)|
+|cava|[config](dotfiles/cava/config)
+
+
 <details>
- <summary> Wallpapers</summary>
- 
+
+   <summary> Wallpapers</summary>
+   
 ![arch_grubbox](Wallpapers/arch_gruvbox.png)
 ![astronaut](Wallpapers/astronaut.png)
 ![drive](Wallpapers/drive.jpg)
@@ -41,4 +43,5 @@ To use this repo in your distrubution ,
 ![pixelart_programmer](Wallpapers/pixelart_programmer.jpg)
 ![archfoc](Wallpapers/archfox_blue.png)
 ![xorg_meme](Wallpapers/xorg_meme.png)
+
 </details>
