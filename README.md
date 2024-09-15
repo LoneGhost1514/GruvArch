@@ -1,4 +1,21 @@
-
+# Why this repo is created
+This repo is created to store the configs of my system on linux (archlinux + gnome de)
+To use this repo in your distrubution , 
+1. Clone the repository by 'git clone https://github.com/LoneGhost1514/GruvArch.git'
+2. Move into the dotfiles directory 'cd GruvArch/dotfiles'
+3. Make the shell files executable 'chmod +x ./install.sh && chmod +x ./config.sh'
+4. Run The install.sh script './install.sh'
+   > **NOTE** : This script will perform a system update
+    This script will set the wallpapers and prompt for the type installation
+   - Full Install
+   - Minimal Install
+   - Coding Workspace
+5. Run the config.sh script './config.sh'
+   > **NOTE**: You need to uncomment the lines 10 and 11 before running the script
+   This script will copy the config files into their respective directories
+6. Finished
+   
+   
 
 # Configs
 |Package|Location|
