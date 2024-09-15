@@ -13,7 +13,7 @@
  |Minimal Install|brave-broser firefox nano code|
  |Coding Workspace|code git nano vim make qemu-full virt-manager npm firefox|
 <details>
- <summary> <h1>Wallpapers</h1></summary>
+ <h1><summary> Wallpapers</summary></h1>
  
 ![arch_grubbox](Wallpapers/arch_gruvbox.png)
 ![astronaut](Wallpapers/astronaut.png)
